@@ -10,4 +10,6 @@ Fortunately, cybersecurity frameworks have been developed that comprise best pra
 
 To prepare for the aftermath of a cyber incident, frameworks provide incident response guidelines you can follow to recover and try to limit the damage. Establishing a framework can not only help your organization follow best practices, but also bring rigorous cyber discipline to your organization. 
 
+All training materials are prepared in English and Ukrainian languages accompanied with the whitepapers from the international experts in English.
+
 These materials were prepared by Catalisto LLC for the USAID Cybersecurity for Critical Infrastructure in Ukraine Activity.
